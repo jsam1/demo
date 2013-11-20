@@ -1,0 +1,3110 @@
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+Testing	Done	100	
+UI	Done	60	
+UI	Work In Progress	10	
+UI	Work In Progress	60	
+Business Logic	Work In Progress	80	
+UI	Done	50	
+UI	Work In Progress	80	
+UI	Done	40	
+UI	Work In Progress	70	
+UI	Done	60	
+Security & Authentication	Done	50	
+UI	Work In Progress	50	
+UI	Done	70	
+UI	Work In Progress	50	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	
+region	fruit	count	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+region	fruit	count	
+Security & Authentication	Work In Progress	20	
+"Data Excahnge"	Work In Progress	40	
+"Reports & Graphs"	Work In Progress	10	
+"Database"	Work In Progress	40	
+UI 	Work In Progress	20	
+UI	Work In Progress	50	
+Business Logic	Work In Progress	100	
+Business Logic	Work In Progress	10	
+Business Logic	Done	10	

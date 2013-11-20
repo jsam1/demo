@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="scripts/jquery-2.0.2.min.js"></script>
+    <title>Booker Price</title>
+    <script type="text/javascript">
+        //function content(rtndata) {
+        //    alert("Callback" + JSON.stringify(msg));
+        //    var j = $.parseJSON(msg['content']);
+        //    console.log(JSON.stringify(j.content));
+        //    var k = $.parseJSON(JSON.stringify(j.content));
+        //    k = $.parseJSON(k);
+        //    var str = "";
+        //    for (var i = 0; i < k.length; i++) {
+        //        str += k[i].id + ". Name : " + JSON.stringify(k[i].name) + "<br />";
+        //        console.log(str);
+        //    }
+        //    $('#data1').html(str);
+        //    alert(msg);
+        //};
+        function content (data) {
+            console.log("Callback" + JSON.stringify(data));
+            var j = $.parseJSON(data[0].id);
+            console.log(JSON.stringify(j));
+            var k = $.parseJSON(JSON.stringify(data[0].name));
+            //k = $.parseJSON(k);
+            alert(k);
+            var str = "";
+            for (var i = 0; i < data.length; i++) {
+                str += data[i].id + ". Name : " + JSON.stringify(data[i].name) + "<br />";
+                console.log(str);
+            }
+            $('#data1').html(str);
+            alert(str);
+        };
+        $(document).ready(function () {
+            $('#getData').click(function () {
+                var paramBook = $('#book').val();
+                var PBItemDescription = $('#PBDesc').val();
+                //paramBook = JSON.stringify(paramBook);
+                alert(PBItemDescription);
+                $.support.cors = true;
+                $.ajax({
+                    dataType: "jsonp",
+                    type: "POST",
+                    //url: "http://localhost/xampp/demo/ClientRest.php",
+                    url: "http://www.discoveryofkarnataka.com/rest.php?content=",
+                    data: { bookname: paramBook, PBItemDescription: PBItemDescription },
+                    crossDomain: true,
+                    jsonp: "callback",
+                    jsonpCallback: "content",
+                    success: function (msg ) {
+                         
+                    },
+                    error: function (err) {
+                        alert("failure"+JSON.stringify(err));
+                        $("#data1").html('there is error while submit');
+                    }
+                });
+                
+            });
+        });
+    </script>
+</head>
+<body>
+<!--<form action="ClientRest.php" method="post">-->
+    <p>
+        Name of the book<input type="text" id="book" name="bookname" size="30" /><br />
+        Description<textarea  id="PBDesc" rows="10" cols="100" >Test</textarea>
+        <!--<input type="submit" name="submit" value="Submit" />-->
+    </p>
+<!--</form>-->
+    <div id="data1">
+
+    </div>
+    <input type="button" id="getData" value="Books" />
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>PostData</title>
+        <script type="text/javascript" src="./scripts/jquery-2.0.2.min.js" ></script>
+    <script type="text/javascript">
+        function person(data) {
+            console.log("Callback" + JSON.stringify(data));
+            var j = $.parseJSON(data[0].id);
+            console.log(JSON.stringify(j));
+            var k = $.parseJSON(JSON.stringify(data[0].name));
+            //k = $.parseJSON(k);
+            alert(k);
+            var str = "";
+            for (var i = 0; i < data.length; i++) {
+                str += data[i].id + ". Name : " + JSON.stringify(data[i].name) + "<br />";
+                console.log(str);
+            }
+            $('#data1').html(str);
+            alert(str);
+        };
+        $(document).ready(function(){
+            $("#sub").click(function () {
+                var params="";
+                var params2="";
+                //for (var i = 0; i < 10; i++) {
+                    params +=  $('#name1').val();
+                    params2 +=   $('#dob').val();
+                //}
+                alert("Value of Parameters are param1 :" + params + "param2 :" + params2)
+                //$.support.cors = true;
+                $.ajax({
+                    datatype: "jsonp",
+                    type: "POST",
+                    url: "http://localhost/xampp/demo/postdata1.php",
+                    data: { param1 : params, param2 : params2 },
+                    crossDomain: true,
+                    jsonp: "person",
+                    jsonpCallback:"person",
+                    success: function (data) {
+                        var j = $.parseJSON(data);
+                        console.log(JSON.stringify(j.Person.Name));
+                        var str = " ";
+                    //for (var i = 0; i < JSON.stringify(data).length; i++) {
+                        str += j.Person.Name + " " + j.Person.dob[0] + " <br /> " + j.Person.dob[1] + " " + j.Person.dob[2] + " " + j.Person.dob[3] + "."; console.log(str);
+                        //}
+                        
+                        $('#data1').html(str);
+
+                    },
+                    error: function (data) { alert('error'+data.statusText);}
+                })
+            })
+        });
+    </script>
+</head>
+<body>
+    <!--<form action="postdata.php" method="post">-->
+    <p>
+    <label for="name" >Enter your Name</label><br />
+    <input type="text" id="name1" value="John" size="30"/>
+    </p>
+    <p>
+    <label for="name" >Enter your DOB</label><br />
+    <input type="date" id="dob" value="MM-DD-YYYY"/>
+    </p>
+	<label for="name" >Enter your Address</label><br />
+	<input type="textarea" id="ttt" value="Address"/>
+    <input type="button" id="sub" value="Submit" />
+    <div id="data1"></div>
+    <!--</form>-->
+</body>
+</html>

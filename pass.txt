@@ -1,0 +1,3267 @@
+$querypassed = "select 'Passed', count(*) from `bug` where `status` = 'passed'";Failed Details:Not Tested DPassed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Passed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Passed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Passed Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Not Tested Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Not Tested Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Not Tested Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Failed Details:Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Failed Details:Not Tested Details:Passed Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Failed Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Not Tested Details:Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Not Tested Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Not Tested Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Not Tested Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
+Passed Details:Failed Details:Array
+(
+    [0] => Array
+        (
+            [fruit] => Passed
+            [count] => 10
+            [color] => #0F0
+        )
+
+    [1] => Array
+        (
+            [fruit] => Passed
+            [count] => 24
+            [color] => #0F0
+        )
+
+)
+Not Tested Details:Array
+(
+    [Failed] => Failed
+    [Count] => 5
+)
+Array
+(
+    [Not Tested] => Not Tested
+    [Count] => 9
+)
