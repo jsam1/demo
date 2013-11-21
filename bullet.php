@@ -24,5 +24,9 @@ if ($stmt = $con->prepare($query)) {
 
 
 $con->close();
+
 echo json_encode($res);
+
+
+
 ?>
